@@ -1,6 +1,7 @@
 # Anotacoes
 
 -------------------------------------------------------------------------------------------------------------------------------
+# Front-End
 
 # O que é o HTTP?
 - É o procotolo base da web, funciona através de mensagens(verbos) e métodos.
@@ -11,5 +12,8 @@
 ```asciidoc
 = As requisições são mensagens enviadas pelo cliente para um servidor;
 ```
+-------------------------------------------------------------------------------------------------------------------------------
 
-# 
+# Back-End
+
+
